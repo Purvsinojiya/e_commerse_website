@@ -1,0 +1,20 @@
+.pay{
+    display: flex;
+    position: absolute;
+    size: cover;
+    top: 300px;
+    left: 250px;
+    height: 370px;
+    width: 41%;
+    height: 388px;
+    width: 48%;
+}
+img{
+    height: 388px;
+    width: 48%;
+    display: flex;
+    justify-content: flex;
+    position: absolute;
+    top: 100px;
+    left: 250px;
+}
